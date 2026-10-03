@@ -1,0 +1,12 @@
+# Variables d'environnement locales
+.env
+.env.*
+!.env.example
+
+# Fichiers du système
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Journaux
+*.log
